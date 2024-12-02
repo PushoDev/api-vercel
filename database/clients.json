@@ -1,0 +1,13 @@
+{
+    "clients":{
+        "id": "increment",
+        "name":"nameexample",
+        "no_contact": "12345678",
+        "familiar": {
+            "id":"increment",
+            "name_familiar":"",
+            "adress_familiar":"",
+            "cell_familiar":""
+        }
+    }
+}
